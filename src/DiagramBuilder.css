@@ -1,0 +1,53 @@
+.diagram-builder-container {
+  text-align: center;
+  text-align: -webkit-center;
+}
+.menuButton {
+  margin-right: 24px;
+}
+.title {
+  flex-grow: 1;
+}
+.app-bar {
+  width: 100vw;
+}
+.app-bar22112 {
+  width: 100vw;
+  align-items: center;
+}
+.diagram-container {
+  width: calc(100vw - 128px);
+  height: calc(100vh - 256px);
+  background: lightgrey;
+  margin-top: 28px;
+}
+.label-menu-container {
+  display: flex;
+  align-items: center;
+}
+.app-bar-buttons-container {
+  width: 70%;
+  display: flex;
+  place-content: center;
+}
+.grid-button {
+  padding-left: 4px;
+  padding-right: 4px;
+
+}
+.add-box-button {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.add-circle-button {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.add-arrow-button {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.add-text-button {
+  padding-left: 4px;
+  padding-right: 4px;
+}
