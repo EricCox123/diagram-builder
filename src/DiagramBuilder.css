@@ -18,7 +18,7 @@
 .diagram-container {
   width: calc(100vw - 128px);
   height: calc(100vh - 256px);
-  background: lightgrey;
+  background: rgb(255, 255, 255);
   margin-top: 28px;
 }
 .label-menu-container {
@@ -33,7 +33,6 @@
 .grid-button {
   padding-left: 4px;
   padding-right: 4px;
-
 }
 .add-box-button {
   padding-left: 4px;
@@ -48,6 +47,10 @@
   padding-right: 4px;
 }
 .add-text-button {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.clear-button {
   padding-left: 4px;
   padding-right: 4px;
 }
