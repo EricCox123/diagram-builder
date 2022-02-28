@@ -10,6 +10,7 @@ FabricJS
 npm install fabric --save
 
 Demo of base functionality:
+
 Adding:
 ![](add-items.gif)
 Moving:
